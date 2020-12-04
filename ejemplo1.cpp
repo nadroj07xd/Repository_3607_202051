@@ -1,2 +1,2 @@
-#incluide
+#include
 using namespace std;
